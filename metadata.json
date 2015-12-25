@@ -1,0 +1,15 @@
+{
+		"name": "jiha-emacs_contextmenu",
+		"version": "0.1.0",
+		"author": "Jim Hansson",
+		"summary": "lets you open files by using the windows context menu in file explorer",
+		"license": "Apache 2.0",
+		"source": "https://github.com/jimhansson/jiha-emacs_contextmenu.git",
+		"project_page": "https://github.com/jimhansson/jiha-emacs_contextmenu",
+		"issues_url": "https://github.com/jimhansson/jiha-emacs_contextmenu/issues",
+		"dependencies": [
+				{"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"},
+				{"name":"puppetlabs-registry","version_requirement":">= 1.1.0"}
+		]
+}
+
