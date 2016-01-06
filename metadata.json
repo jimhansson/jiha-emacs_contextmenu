@@ -1,6 +1,6 @@
 {
 		"name": "jiha-emacs_contextmenu",
-		"version": "0.1.0",
+		"version": "0.1.1",
 		"author": "Jim Hansson",
 		"summary": "lets you open files by using the windows context menu in file explorer",
 		"license": "Apache 2.0",
