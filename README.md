@@ -33,7 +33,7 @@ emacs as a option on the context menu of files, you need to supply a path that t
 where emacs is installed, that variable is named path
 
 so something like this could work
-  class { 'emacs_contextmenu': path => '<path to emacs isntall without bin>' }
+  class { 'emacs_contextmenu': path => '<directory containg emacs and emacsclientw exe's>' }
 
 ## Reference
 
